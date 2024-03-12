@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./contact_page.css">
+    <title>contact page</title>
+</head>
+<body>
+    <header>
+        <h1 style=" font-size: xx-large;">CONTACT US</h1>
+        <p>Have some question?</p>
+        <p></p>
+    </header>
+
+    <div class="container">
+        
+        <label for="nm">Name</label><br>
+        <input type="text" id="nm" placeholder="Enter your name" required><br>
+
+        <label for="email">Email</label><br>
+        <input type="email" id="email" placeholder="name@gmail.com" required><br>
+
+    
+
+        <label for="number">Contact number</label><br>
+        <input type="number" id="number" placeholder="030573836834" required><br>
+        <p>Question?/ Comment</p>
+        <textarea name="" id="" cols="100" rows="10"></textarea>
+
+        <BUtton>Submit</BUtton>
+
+    </div>
+
+</body>
+</html>vv
